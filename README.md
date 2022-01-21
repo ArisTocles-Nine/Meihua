@@ -1,2 +1,2 @@
 # Meihua
-梅花易数
+Python 实现梅花易数
